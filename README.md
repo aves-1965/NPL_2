@@ -16,4 +16,4 @@ El notebook implementa un sistema RAG completo con tres fuentes de datos: base v
 
 ## Autor
 
-Alfredo Villalba - TUIA 2025
+Alfredo Sanz - TUIA 2025
